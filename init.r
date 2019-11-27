@@ -1,0 +1,6 @@
+install.packages("shiny", dependencies=TRUE)  
+install.packages("Cairo", dependencies=TRUE)  
+install.packages("tm", dependencies=TRUE)  
+install.packages("wordcloud", dependencies=TRUE)  
+install.packages("markovchain", dependencies=TRUE)  
+install.packages("memoise", dependencies=TRUE)
